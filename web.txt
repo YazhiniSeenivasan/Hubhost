@@ -1,2 +1,2 @@
-<h1>hello world!</h1>
-<h2>IN GitHub.</h2>
+hello world!
+IN GitHub
